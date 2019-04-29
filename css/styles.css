@@ -2,9 +2,10 @@
 
 
 header {
-    background: rgba(250, 241, 241, 0.9);
+    background: rgba(199, 24, 24, 0.9);
     width: 100%;
     position: fixed;
     z-index: 100;
-    color: aliceblue;
+    color: rgb(163, 25, 7);
+    
   }
